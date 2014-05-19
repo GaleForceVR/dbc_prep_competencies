@@ -117,7 +117,7 @@ Learning Competency:
 - <a href = "http://pragprog.com/book/cfcar2/the-passionate-programmer" target="_blank">*The Passionate Programmer*</a> by Chad Fowler. This book is about creating a remarkable career in software development. In most cases, remarkable careers don’t come by chance. They require thought, intention, action, and a willingness to change course when you’ve made mistakes. Most of us have been stumbling around letting our careers take us where they may. It’s time to take control. This revised and updated second edition lays out a strategy for planning and creating a radically successful life in software development.
 - <a href = "http://pragprog.com/book/tpp/the-pragmatic-programmer" target = "_blank">*The Pragmatic Programmer*</a> by Andrew Hunt and David Thomas. Straight from the programming trenches, The Pragmatic Programmer: From Journeyman to Master cuts through the increasing specialization and technicalities of modern software development to examine the core process—what do you do, as an individual and as a team, if you want to create software that’s easy to work with and good for your users.
 
-- <a href= "http://slides.com/goodproduce/surviveweekone" target= "_blank">*Surviving week 1 of Phase 1*</a> by Jay Bobo (Chicgao Grasshopper 2014)
+- <a href= "http://slides.com/goodproduce/surviveweekone" target= "_blank">*Surviving week 1 of Phase 1*</a> by Jay Bobo (Chicago Grasshopper 2014)
 ***
 *Note: If you want to check the boxes above and have the checks persist, you need to clone/download this file onto your computer, upload the file to GitHub, and edit it so each* -[ ]* has *-[X].*You can also make notes in the file if you edit your own.* 
 
