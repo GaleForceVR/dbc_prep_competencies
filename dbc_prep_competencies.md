@@ -76,10 +76,9 @@ Learning Competencies:
 #### 4. Ruby
 Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following competencies. 
 
-Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15 and <a href="http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/" target="_blank">A Beginners Guide to Ruby</a>
+Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15.
 
 Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">Codecademy</a> from Introduction to Ruby to Refactoring
-
 
 Learning Competencies:
 
@@ -95,15 +94,18 @@ Learning Competencies:
 - [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned competencies)
 - [ ] Debug syntax errors from error messages
 
-#### 5. Typing
+#### 5. Typing and shortcuts
 It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
 
-Take a baseline [test](http://www.typingtest.com/index.html) to see how fast you currently type. 
+Take a baseline <a href = "http://www.typingtest.com/index.html" target="_blank">test</a> to see how fast you currently type. 
 
-Then practice. Try [typing.io](http://typing.io/) to practice typing code, which has a ton of strange symbols. Typing can be fun to practice and you can't get too good at it.
+Then practice. Try <a href = "http://www.typingtest.com/index.html" target="_blank">test</a>[typing.io](http://typing.io/) to practice typing code, which has a ton of strange symbols. Typing can be fun to practice and you can't get too good at it.
+
+For shortcuts, try <a href = "https://www.shortcutfoo.com/" target="_blank">shortcutfoo.com</a>. You'll want to know about some of the awesome sublime text shortcuts. 
 
 Learning Competency:
  - Type at least 30 words per minute
+ - Use common shortcuts in Sublime
 
 ## Additional Resources
 *These are optional, so check these out if you have some the time.*
