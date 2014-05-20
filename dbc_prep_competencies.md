@@ -76,9 +76,10 @@ Learning Competencies:
 #### 4. Ruby
 Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following competencies. 
 
-Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15.
+Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15 and <a href="http://www.smashingmagazine.com/2012/05/24/beginners-guide-ruby/" target="_blank">A Beginners Guide to Ruby</a>
 
 Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">Codecademy</a> from Introduction to Ruby to Refactoring
+
 
 Learning Competencies:
 
