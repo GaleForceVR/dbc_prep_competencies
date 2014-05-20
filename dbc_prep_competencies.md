@@ -104,7 +104,7 @@ Then practice. Try <a href = "http://www.typingtest.com/index.html" target="_bla
 For shortcuts, try <a href = "https://www.shortcutfoo.com/" target="_blank">shortcutfoo.com</a>. You'll want to know about some of the awesome sublime text shortcuts. 
 
 Learning Competency:
- - Type at least 30 words per minute
+ - Type at least 40 words per minute
  - Use common shortcuts in Sublime
 
 ## Additional Resources
