@@ -32,10 +32,10 @@ You are about to embark on a new learning experience. You will be challenged in 
 
 Learning Competencies:
 
-- [ ] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
-- [ ] Identify my 
+- [x] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
+- [x] Identify my 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
-- [ ] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+- [x] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
 
 #### 2. Computer Set-Up
 
@@ -50,7 +50,7 @@ Learning Competencies:
 - [x] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
 - [ ] Install DBC’s preferred text editor - Sublime Text.
 - [ ] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
-- [ ] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
+- [x] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
 
 
 #### 3. Command Line
@@ -63,15 +63,15 @@ Resource: <a href="http://cli.learncodethehardway.org/book/" target="_blank">The
 
 Learning Competencies:
 
-- [ ] Navigate between directories
-- [ ] Create a new directory
-- [ ] Delete a directory
-- [ ] List files in a directory
-- [ ] Identify the directory I are in
-- [ ] Move a file between from one directory to another
-- [ ] Copy a file or directory
-- [ ] Open a file in a text editor
-- [ ] Run a ruby file
+- [x] Navigate between directories
+- [x] Create a new directory
+- [x] Delete a directory
+- [x] List files in a directory
+- [x] Identify the directory I are in
+- [x] Move a file between from one directory to another
+- [x] Copy a file or directory
+- [x] Open a file in a text editor
+- [x] Run a ruby file
 
 #### 4. Ruby
 Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following competencies. 
@@ -82,17 +82,17 @@ Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">
 
 Learning Competencies:
 
-- [ ] Identify strings, integers, arrays, hashes, floats
-- [ ] Define a variable
-- [ ] Interact with a user via the command line (ex. `gets`)
-- [ ] Describe flow control using `if`, `elsif`, `else`, and `unless`
-- [ ] Convert a method using `if`/`else` to case using `when`
-- [ ] Compare `=` and `==`
-- [ ] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
-- [ ] Differentiate between arrays and hashes
-- [ ] Describe what methods, blocks, and classes, and objects are in Ruby
-- [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned competencies)
-- [ ] Debug syntax errors from error messages
+- [x] Identify strings, integers, arrays, hashes, floats
+- [x] Define a variable
+- [x] Interact with a user via the command line (ex. `gets`)
+- [x] Describe flow control using `if`, `elsif`, `else`, and `unless`
+- [x] Convert a method using `if`/`else` to case using `when`
+- [x] Compare `=` and `==`
+- [x] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
+- [x] Differentiate between arrays and hashes
+- [x] Describe what methods, blocks, and classes, and objects are in Ruby
+- [x] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned competencies)
+- [x] Debug syntax errors from error messages
 
 #### 5. Typing and shortcuts
 It's important to be able to type at a decent clip in this new career you've embarked on! That said, it's not the end of the world if you struggle with typing, just take some time to practice, practice, practice!
