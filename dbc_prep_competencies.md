@@ -48,8 +48,8 @@ It is fundamentally important that you have a working development environment on
 Learning Competencies:
 
 - [x] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
-- [ ] Install DBC’s preferred text editor - Sublime Text.
-- [ ] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
+- [x] Install DBC’s preferred text editor - Sublime Text.
+- [x] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>* <br>*Use "Build System" - not certain if it is possible to make a Ruby program run in Powershell from Sublime Text 2"*
 - [x] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
 
 
